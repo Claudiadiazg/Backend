@@ -1,0 +1,22 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "practica clase 2 de node js",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "watch": "nodemon index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript"
+  ],
+  "author": "Claudia Diaz",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "chance": "^1.1.12",
+    "nodemon": "^3.1.4"
+  }
+}
